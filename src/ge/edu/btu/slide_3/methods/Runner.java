@@ -7,6 +7,7 @@ public class Runner {
         box.width = 10;
         box.length = 15;
         box.height = 5;
+        double v = box.volume();
         System.out.println("ყუთში ჩაეტევა " + box.capacity(1000) + " წყალი");
         box.printInfo();
     }

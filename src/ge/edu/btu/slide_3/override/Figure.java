@@ -1,10 +1,8 @@
 package ge.edu.btu.slide_3.override;
 
-public class Figure {
+public abstract class Figure {
 
-    public double area() {
-        return 0.0;
-    }
+    public abstract double area();
 }
 
 

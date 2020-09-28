@@ -4,7 +4,9 @@ public class Bicycle {
     private String name;
     private int maxSpeed;
 
-    public Bicycle() {}
+    public Bicycle() {
+
+    }
     public Bicycle(String name, int maxSpeed) {
         this.name = name;
         this.maxSpeed = maxSpeed;
