@@ -11,4 +11,5 @@ ge.btu.edu.slide_8 - 8. Enum & Wrappers & Generics & Annotations <br />
 ge.btu.edu.slide_9 - 9. Collections <br />
 ge.btu.edu.slide_10 - 10. Multithreading <br />
 ge.btu.edu.slide_11 - 11. Networking <br />
-ge.btu.edu.slide_11 - 12. JDBC <br />
+ge.btu.edu.slide_12 - 12. JDBC <br />
+ge.btu.edu.slide_13 - 13. JavaFX
