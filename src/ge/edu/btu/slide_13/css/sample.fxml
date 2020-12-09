@@ -1,0 +1,13 @@
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<StackPane fx:controller="ge.edu.btu.slide_13.css.Controller"
+           stylesheets="@sample.css"
+           xmlns:fx="http://javafx.com/fxml" alignment="center">
+    <VBox spacing="10" alignment="CENTER">
+        <Label fx:id="label" style="-fx-font-size: 18px; -fx-text-fill: red;">Label</Label>
+        <Button prefWidth="100" prefHeight="40" styleClass="sampleButton" onAction="#changeLabelStyle">Button</Button>
+    </VBox>
+</StackPane>
+
